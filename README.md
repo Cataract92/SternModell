@@ -1,8 +1,8 @@
 # SternModell
 Modellprogramm zur Topologie Stern
 
-Commands:
-name {name}: Set your Clientname.
+Commands:<br>
+name {name}: Set your Clientname.<br>
 connect {ip}: Connect to IP.
 send {id} {msg..}: Send Message to ID.
 disconnect: disconnects.
